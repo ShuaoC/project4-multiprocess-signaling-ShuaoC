@@ -1,0 +1,97 @@
+
+Four signal handling processes were Created: 
+    Process[1]ID = 26905
+    Process[2]ID = 26906
+    Process[3]ID = 26907
+    Process[4]ID = 26908
+
+One reporting process were Created: 
+    Process[0]ID = 26909
+
+Three signal generating processes were Created: 
+    Process[1]ID = 26910
+    Process[2]ID = 26911
+    Process[3]ID = 26912
+
+
+--------------------------------------------------------------
+
+System timestamp:    Mon Apr 26 05:25:34 2021
+  USR1:     Generated = 219,       Received =  0
+  USR2:     Generated = 251,       Received =  0
+Average Arrival time = 0.000000 
+
+System timestamp:    Mon Apr 26 05:25:34 2021
+  USR1:     Generated = 222,       Received =  5
+  USR2:     Generated = 258,       Received =  15
+Average Arrival time = 0.001646 
+
+System timestamp:    Mon Apr 26 05:25:35 2021
+  USR1:     Generated = 229,       Received =  16
+  USR2:     Generated = 261,       Received =  21
+Average Arrival time = 0.002803 
+
+System timestamp:    Mon Apr 26 05:25:35 2021
+  USR1:     Generated = 238,       Received =  31
+  USR2:     Generated = 262,       Received =  23
+Average Arrival time = 0.001433 
+
+System timestamp:    Mon Apr 26 05:25:35 2021
+  USR1:     Generated = 243,       Received =  40
+  USR2:     Generated = 267,       Received =  33
+Average Arrival time = 0.004317 
+
+System timestamp:    Mon Apr 26 05:25:35 2021
+  USR1:     Generated = 243,       Received =  40
+  USR2:     Generated = 277,       Received =  53
+Average Arrival time = 0.002499 
+
+System timestamp:    Mon Apr 26 05:25:36 2021
+  USR1:     Generated = 245,       Received =  43
+  USR2:     Generated = 285,       Received =  69
+Average Arrival time = 0.000041 
+
+System timestamp:    Mon Apr 26 05:25:36 2021
+  USR1:     Generated = 246,       Received =  46
+  USR2:     Generated = 294,       Received =  87
+Average Arrival time = 0.004537 
+
+System timestamp:    Mon Apr 26 05:25:36 2021
+  USR1:     Generated = 250,       Received =  52
+  USR2:     Generated = 300,       Received =  99
+Average Arrival time = 0.000036 
+
+System timestamp:    Mon Apr 26 05:25:36 2021
+  USR1:     Generated = 254,       Received =  59
+  USR2:     Generated = 306,       Received =  111
+Average Arrival time = 0.002404 
+
+System timestamp:    Mon Apr 26 05:25:36 2021
+  USR1:     Generated = 258,       Received =  66
+  USR2:     Generated = 312,       Received =  123
+Average Arrival time = 0.001894 
+
+System timestamp:    Mon Apr 26 05:25:37 2021
+  USR1:     Generated = 267,       Received =  80
+  USR2:     Generated = 313,       Received =  125
+Average Arrival time = 0.000718 
+
+System timestamp:    Mon Apr 26 05:25:37 2021
+  USR1:     Generated = 270,       Received =  86
+  USR2:     Generated = 320,       Received =  139
+Average Arrival time = 0.000029 
+
+System timestamp:    Mon Apr 26 05:25:37 2021
+  USR1:     Generated = 270,       Received =  86
+  USR2:     Generated = 330,       Received =  159
+Average Arrival time = 0.003540 
+
+System timestamp:    Mon Apr 26 05:25:37 2021
+  USR1:     Generated = 270,       Received =  86
+  USR2:     Generated = 340,       Received =  179
+Average Arrival time = 0.000024 
+
+System timestamp:    Mon Apr 26 05:25:37 2021
+  USR1:     Generated = 278,       Received =  99
+  USR2:     Generated = 342,       Received =  183
+Average Arrival time = 0.001959 
